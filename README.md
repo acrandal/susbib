@@ -11,6 +11,9 @@ susbib references.bib
 
 Script found on some forum years ago and it's been too valuable to lose. If you find the original owner, please let me know.
 
+Aaron S. Crandall <crandall@gonzaga.edu>  
+August 2021
+
 #### Version
 
 1.0.0
